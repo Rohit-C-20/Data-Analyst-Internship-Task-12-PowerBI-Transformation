@@ -1,0 +1,16 @@
+Power BI – Data Transformation Notes (Task 12)
+
+1. Imported HR Analytics dataset into Power BI.
+2. Opened Power Query Editor for data cleaning.
+3. Removed unnecessary columns such as enrollee_id.
+4. Renamed columns for better readability (e.g., relevent_experience → Relevant Experience).
+5. Checked and corrected data types (Whole Number, Decimal, Text).
+6. Handled missing values by replacing nulls with "Unknown" where appropriate.
+7. Converted Experience column from text format (<1, >20) into numeric format.
+8. Created Experience Level category (Junior, Mid, Senior).
+9. Created Training Band column using conditional logic.
+10. Applied changes and loaded the transformed data model.
+11. Built distribution charts and KPI cards using the cleaned dataset.
+
+Conclusion:
+Data was successfully transformed using Power Query to ensure clean, structured, and analysis-ready data before dashboard creation.
